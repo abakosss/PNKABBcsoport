@@ -1,1 +1,1 @@
-readme
+Pletser Norbert, Kerti Alex és Bakos Bence közös csoportmunkája, gitet tanulunk.
